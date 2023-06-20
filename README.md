@@ -19,4 +19,4 @@ These data files exist in various formats, such as CSV (comma-separated values) 
 
 ## Methods
 
-Collectively, we decide to apply some filters to focus on a subset of the dataset gathered for the purpose of this project.
+Collectively, we want to apply some filters to focus on a subset of the dataset gathered for the purpose of this project. First, we decide to analyze from the movies that were **released between 2010 and 2018**, because we want to apply the same range of release dates across all databases. We also merge different databases together by completing an **inner join**. Therefore, we focus on movies that are present in both databases.
