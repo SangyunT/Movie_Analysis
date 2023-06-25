@@ -22,11 +22,11 @@ To propose recommendation to our company's new movie studio, we complete the fol
 1. Median profit, production budget, and ROI values per genre
 
 2. Profit of top 4 popular genres across release months
-[label](blob:vscode-webview%3A//06kjknb04qu853nb0qv5u4g5k7oit03akm7umt6oj0f1dqe0ekph/53e6bd35-1f56-43f7-bd48-11e6ef7507c6)
+![image](./images/release_month.png)
 
  Simple linear regression model is used to explore the relationship between the production budget and profit.
 
- [label](blob:vscode-webview%3A//06kjknb04qu853nb0qv5u4g5k7oit03akm7umt6oj0f1dqe0ekph/416fad80-9221-4217-ba3d-e6f84ec2fc20)
+![image](./images/simple_linear_regression.png)
 
  ## Conclusions
 
