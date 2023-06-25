@@ -62,7 +62,13 @@ To propose recommendation to our company's new movie studio, we complete the fol
 
 ├── zippedData
 
-├── Movie Analysis.ipynb
+├── CONTRIBUTING.md
+
+├── LICENSE.md
+
+├── Movie_Analysis.ipynb
+
+├── Movie Analysis notebook.pdf
 
 ├── RSM-Productions_Launch.pdf
 
