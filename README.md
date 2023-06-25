@@ -44,7 +44,7 @@ To propose recommendation to our company's new movie studio, we complete the fol
 
  ## For More Information
 
- Please refer to the [Jupyter notebook](./Movie_Analysis.ipynb),the [presentation](./RSM-Productions_Launch.pdf), and the [Tableau Dashboard](https://public.tableau.com/app/profile/morgan.goode/viz/imdb_movie_analysis/MedianProfitByGenre).
+ Please refer to the [Jupyter notebook](./Movie_Analysis.ipynb), the [presentation](./RSM-Productions_Launch.pdf), and the [Tableau Dashboard](https://public.tableau.com/app/profile/morgan.goode/viz/imdb_movie_analysis/MedianProfitByGenre).
 
  If you have any questions, please contact our team:
 
