@@ -44,7 +44,7 @@ To propose recommendation to our company's new movie studio, we complete the fol
 
  ## For More Information
 
- Please refer to the[Jupyter notebook](./Movie Analysis.ipynb) contains more in-depth analyses, and the [presentation](./RSM-Productions_Launch.pdf).
+ Please refer to the[Jupyter notebook](./Movie_Analysis.ipynb) contains more in-depth analyses, and the [presentation](./RSM-Productions_Launch.pdf).
 
  If you have any questions, please contact our team:
 
